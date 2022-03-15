@@ -1,0 +1,10 @@
+div {
+  width: 20px;
+  border: 4px  solid rgb(0, 0, 0);
+  padding: 50px;
+  margin-top: -7px;
+  margin-left: -7px;
+}
+
+.kruisje {background-color: brown;}
+.rondje {background-color: blue;}
